@@ -1,4 +1,4 @@
-# Random Walks — a Cover Time Explorer
+# Random Walk Cover Time Explorer
 
 Final project of my Bachelor's degree: a small desktop tool for exploring the
 **cover time** of random walks on graphs.
